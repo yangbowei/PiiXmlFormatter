@@ -2,6 +2,13 @@
 
 This is the README for your extension "piixmlformatter". After writing up a brief description, we recommend including the following sections.
 
+## References
+
+* API List: https://github.com/Microsoft/vscode/blob/master/src/vs/vscode.d.ts
+* Example 1: https://github.com/rebornix/vscode-reverseword/blob/master/extension.js
+* Example 2: https://github.com/mikeburgh/vscode-xml-format/blob/master/extension.js
+* Guide: https://www.cnblogs.com/caipeiyu/p/5507252.html
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
